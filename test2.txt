@@ -15,4 +15,10 @@ rererererere
 
 
 wwwaaawaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+<<<<<<< HEAD
 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+=======
+llllllllllllllllllllllllllllllllllllllllllllllll
+eweeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+
+>>>>>>> 1
